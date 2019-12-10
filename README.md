@@ -3,7 +3,7 @@ A simple and modern Fivem 2019 HUD (HUNGER/THIRST)
 
 ![HUD](https://i.imgur.com/Fpg7pUV.png)
 
-ESSENTIALS:
+<h1>ESSENTIALS:
 
 [https://github.com/ESX-Org/esx_basicneeds]
 
@@ -11,7 +11,7 @@ ESSENTIALS:
 
 [https://github.com/ESX-Org/es_extended]
 
-INSTALLATION :
+<h1>INSTALLATION :
 
 1.First you need to install esx_status , esx_basicneeds , and es_extended (follow the each documentation for any problems)
 
