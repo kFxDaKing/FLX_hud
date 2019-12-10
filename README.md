@@ -1,7 +1,7 @@
 # FLX_hud
 A simple and modern Fivem 2019 HUD (HUNGER/THIRST)
 
-https://i.imgur.com/Fpg7pUV.png
+![HUD](https://i.imgur.com/Fpg7pUV.png)
 
 ESSENTIALS:
 
